@@ -37,27 +37,28 @@ const titleBase = `Blog page ${page.currentPage}`;
 const title = titleBase + titleSuffix;
 const description =
   'Pagination example built with Astro styled with Tailwind CSS.';
+const backgroundImageURL = '/assets/images/pascal-cityscape4.jpeg';
 ---
 
 <Base head={{ title, description }}>
+  <div style={`background-image: url(${backgroundImageURL}); background-size: 73% 122%; background-position: center; backdrop-filter: blur(10px);`}>
   <Section>
-    
     <PaginationHeader
       title="Nhu's Blog"
-      description='Drink (hot chocolate), read on rainy days, and build my story... '
+      description='Drink hot chocolate, read on rainy days, build your story... '
     />
-   
   </Section>
 
   <Section>
-  
-      <BlogGallery postList={page.data} />
-    
+    <BlogGallery postList={page.data} />
   </Section>
 
   <Section>
     <NewerOlderPagination page={page} />
   </Section>
 
-  <CTA />
+  
+  <CTA />  <p style="text-align: right; font-size: 10px; margin-right: 2px"> Art by PascalCampion </p>
+
+  </div>
 </Base>

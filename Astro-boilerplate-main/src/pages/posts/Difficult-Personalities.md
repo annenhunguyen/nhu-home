@@ -1,6 +1,6 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Difficult personalities
+title: Difficult Personalities
 description: A reflection on how to work with different and sometimes difficult.
 pubDate: 2022-09-01T00:00:00Z
 imgSrc: '/assets/images/busy-office.jpeg'

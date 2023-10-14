@@ -1,43 +1,43 @@
 ---
 layout: '@/templates/BasePost.astro'
 title: Typography example
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+description: Just what the title says..
 pubDate: 2020-02-06T00:00:00Z
 imgSrc: '/assets/images/image-post.jpeg'
 imgAlt: 'Image post'
 ---
 
-This is a paragraph. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+This is a paragraph. I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+LI love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
 ## Headings
 
 # H1 For example
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
 ## H2 For example
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
 ### H3 For example
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
 #### H4 For example
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
 ##### H5 For example
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
 ###### H6 For example
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
 ## Emphasis
 
@@ -54,7 +54,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 Quote break.
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap. Oh, remember that you can also _put_ **Markdown** into a blockquote.
 
 ## Horizontal separator
 
@@ -62,7 +62,7 @@ This is a horizontal separator:
 
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
 ---
 
@@ -140,7 +140,7 @@ var s = 'JavaScript syntax highlighting'; var s = 'JavaScript syntax highlightin
 alert(s);
 ```
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi, inventore atque cupiditate. Sed voluptatem quas omnis culpa, et odit.
+I love ice cream, and rainy day, but also sunny morning, and dewey mountains but I don't like bugs. And I love cozy nights watch a good movie.
 
 ```python
 s = "Python syntax highlighting"

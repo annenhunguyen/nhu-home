@@ -60,11 +60,21 @@ const Hero = () => (
             />
           </a>
 
-          <a href="https://www.facebook.com/anne.nhu">
+          <a href="https://www.facebook.com/anne.nhu"> 
             <HeroSocial
               src="/assets/images/facebook-icon.png"
               alt="Facebook icon"
-            />
+            />            
+          </a>
+                    
+          <a 
+            href="/assets/images/Nhu-T-Nguyen_Resume.pdf" 
+            target="_blank"
+          >
+              <HeroSocial
+                src="/assets/images/download-vector.svg"
+                alt="Download resume icon"
+              />
           </a>
           
         </>

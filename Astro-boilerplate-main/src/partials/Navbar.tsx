@@ -49,6 +49,7 @@ const Navbar = () => (
       <NavMenu>
         <NavMenuItem href="/">Home</NavMenuItem>
         <NavMenuItem href="/posts/">Blogs</NavMenuItem>
+        <NavMenuItem href="/assets/images/Nhu-T-Nguyen_Resume.pdf">Resume</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>
